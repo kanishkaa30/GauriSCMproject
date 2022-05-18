@@ -22,7 +22,7 @@ cin>>c;
 PI=3.14159265; 
 switch(c) 
 { 
-ddition = "<<a+b<<endl; 
+addition = "<<a+b<<endl; 
 break; 
 case 5: 
 cout<<"Enter the number : "; 
